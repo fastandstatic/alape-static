@@ -2,27 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/eventos/</loc>
-		<lastmod>2024-08-26T16:39:49+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/evento/lxv-congreso-nacional-de-pediatria/</loc>
-		<lastmod>2024-08-26T16:26:33+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Screenshot_6.png</image:loc>
-		</image:image>
+		<lastmod>2024-09-10T17:33:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/evento/41-congresso-brasileiro-de-pediatria/</loc>
-		<lastmod>2024-08-26T16:35:27+00:00</lastmod>
+		<lastmod>2024-09-10T17:29:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Site-CBP_SBP_banner_1280x177-b.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/3-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/evento/lxv-congreso-nacional-de-pediatria/</loc>
+		<lastmod>2024-09-10T17:32:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/evento/el-xxxv-congreso-nacional-de-pediatria-y-el-xxiii-congreso-nacional-de-neonatologia/</loc>
-		<lastmod>2024-08-26T16:39:49+00:00</lastmod>
+		<lastmod>2024-09-10T17:33:30+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/congreso-scaled-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/1-2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

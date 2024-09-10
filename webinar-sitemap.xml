@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/webinar/que-esta-pasando-con-las-infecciones-respiratorias/</loc>
-		<lastmod>2024-08-26T15:25:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Screenshot_2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/webinar/retos-y-oportunidades-en-la-vacunacion-de-menores-de-5-anos/</loc>
 		<lastmod>2024-08-26T15:27:24+00:00</lastmod>
 		<image:image>
@@ -15,17 +8,24 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/webinar/por-que-es-importante-vacunar-al-adolescente/</loc>
-		<lastmod>2024-08-26T15:30:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Screenshot_4.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/webinar/lo-que-tienes-que-saber-sobre-la-viruela-del-mono/</loc>
 		<lastmod>2024-08-26T15:37:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Screenshot_5.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/webinar/que-esta-pasando-con-las-infecciones-respiratorias/</loc>
+		<lastmod>2024-09-09T20:06:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Screenshot_2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/webinar/por-que-es-importante-vacunar-al-adolescente/</loc>
+		<lastmod>2024-09-09T20:53:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/es-importante-vacunar-al-adolescente-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>

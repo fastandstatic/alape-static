@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-09T16:20:54+00:00</lastmod>
+		<lastmod>2024-09-10T17:51:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/raton.svg</image:loc>
 		</image:image>
@@ -79,19 +79,6 @@
 	<url>
 		<loc>/noticias/</loc>
 		<lastmod>2024-08-05T16:22:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/historia/</loc>
-		<lastmod>2024-08-20T20:58:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/Group-593.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/3-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/2-3.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/junta-directiva/</loc>
@@ -457,6 +444,26 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/colombia-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en-mantenimiento/</loc>
+		<lastmod>2024-09-09T20:28:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-446.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/historia/</loc>
+		<lastmod>2024-09-10T15:00:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-593.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/3-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/2-3.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
