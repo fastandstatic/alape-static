@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-10T17:51:43+00:00</lastmod>
+		<lastmod>2024-09-11T20:16:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/raton.svg</image:loc>
 		</image:image>
@@ -88,8 +88,69 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/expresidentes/</loc>
+		<lastmod>2024-09-09T16:00:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-593.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-114.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-112-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/colombia-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-121.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-123.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-127.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-111.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/colombia-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/en-mantenimiento/</loc>
+		<lastmod>2024-09-09T20:28:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-446.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/historia/</loc>
+		<lastmod>2024-09-10T15:00:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-593.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/3-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/2-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/webinars/</loc>
+		<lastmod>2024-09-11T20:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-447.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Group-448.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/comites/</loc>
-		<lastmod>2024-08-22T20:07:08+00:00</lastmod>
+		<lastmod>2024-09-11T21:10:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/ALAPE-POST-Entradas-WEB-2.jpg</image:loc>
 		</image:image>
@@ -211,13 +272,13 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-119.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-36.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-112.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-126.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-37.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-120.svg</image:loc>
@@ -238,7 +299,7 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-127.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-44.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-117.svg</image:loc>
@@ -247,16 +308,16 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-115.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-47.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-112.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-48.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-111.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-120.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-57.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-114.svg</image:loc>
@@ -268,10 +329,10 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-116.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-126.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-55.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-127.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-56.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-123.svg</image:loc>
@@ -322,19 +383,19 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-120.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-123.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-112-1.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-119.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-123.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-112-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-113-1.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/sobre.svg</image:loc>
@@ -346,13 +407,13 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-119.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-44.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-116.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-120.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-48.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-119.svg</image:loc>
@@ -379,7 +440,7 @@
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-126.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-125.svg</image:loc>
+			<image:loc>/wp-content/uploads/2024/08/Mask-Group-44.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-117.svg</image:loc>
@@ -413,57 +474,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/Mask-Group-116.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/expresidentes/</loc>
-		<lastmod>2024-09-09T16:00:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/Group-593.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-114.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-112-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/colombia-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-121.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-123.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-127.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/Mask-Group-111.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/colombia-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/en-mantenimiento/</loc>
-		<lastmod>2024-09-09T20:28:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/Group-446.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/historia/</loc>
-		<lastmod>2024-09-10T15:00:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/Group-593.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/3-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/2-3.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
