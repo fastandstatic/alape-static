@@ -137,7 +137,11 @@
 }
 
 @media only screen and (max-width: 768px) {
+    #prevencion-muerte .elementor-image-box-wrapper .elementor-image-box-content,
+    #comunicacion .elementor-image-box-wrapper .elementor-image-box-content,
+    #pediatria .elementor-image-box-wrapper .elementor-image-box-content,
     #neonatologia .elementor-image-box-wrapper .elementor-image-box-content,
+    #discapacidad .elementor-image-box-wrapper .elementor-image-box-content,
     #lactancia .elementor-image-box-wrapper .elementor-image-box-content,
     #adolescencia #section1-adolescencia .elementor-image-box-wrapper .elementor-image-box-content,
     #comite_pediatria #section1_comite_pediatria .elementor-image-box-wrapper .elementor-image-box-content,
