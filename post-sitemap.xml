@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/semana-mundial-de-la-lactancia-materna/</loc>
-		<lastmod>2024-08-20T21:06:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/woman-breast-feeding-her-child.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/Noticia-01-600-x-400.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/diez-tips-para-iniciar-la-alimentacion-complementaria-y-no-desfallecer-en-el-intento/</loc>
 		<lastmod>2024-08-26T15:15:07+00:00</lastmod>
 		<image:image>
@@ -32,8 +22,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/saludo-de-la-presidenta-de-la-asociacion-latinoamericana-de-pediatria/</loc>
+		<lastmod>2024-09-11T19:15:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/marcela-fama.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/participacion-de-alape-en-reunion-de-la-ipa/</loc>
-		<lastmod>2024-09-09T15:44:49+00:00</lastmod>
+		<lastmod>2024-09-17T13:42:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-27-at-9.58.25-AM-_2_.jpg</image:loc>
 		</image:image>
@@ -45,10 +42,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/saludo-de-la-presidenta-de-la-asociacion-latinoamericana-de-pediatria/</loc>
-		<lastmod>2024-09-11T19:15:47+00:00</lastmod>
+		<loc>/semana-mundial-de-la-lactancia-materna/</loc>
+		<lastmod>2024-09-17T13:42:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/marcela-fama.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/07/woman-breast-feeding-her-child.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/Noticia-01-600-x-400.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
