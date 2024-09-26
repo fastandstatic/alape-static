@@ -15,13 +15,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/algoritmos-para-el-manejo-clinico-de-los-casos-de-dengue/</loc>
-		<lastmod>2024-08-26T15:58:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/close-up-mosquito-sucking-blood-from-human-arm.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/saludo-de-la-presidenta-de-la-asociacion-latinoamericana-de-pediatria/</loc>
 		<lastmod>2024-09-11T19:15:47+00:00</lastmod>
 		<image:image>
@@ -49,6 +42,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/Noticia-01-600-x-400.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/algoritmos-para-el-manejo-clinico-de-los-casos-de-dengue/</loc>
+		<lastmod>2024-09-26T16:23:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/close-up-mosquito-sucking-blood-from-human-arm.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

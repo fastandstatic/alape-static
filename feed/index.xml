@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Sep 2024 13:42:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Sep 2024 16:23:28 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -93,7 +93,13 @@
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/wp-content/uploads/2024/08/2020-cde-algoritmos-manejo-clinico-dengue.pdf">Descargar el PDF</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/wp-content/uploads/2024/08/2020-cde-algoritmos-manejo-clinico-dengue.pdf">Algoritmos para el Manejo Clínico</a></div>
+</div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/wp-content/uploads/2024/09/ALERTA-EPIDEMIOLOGICA-DENGUE-EN-LAC.pdf">Alerta Epidemiológica</a></div>
 </div>
 <p>The post <a href="/algoritmos-para-el-manejo-clinico-de-los-casos-de-dengue/">Algoritmos para el Manejo Clínico de los Casos de Dengue</a> appeared first on <a href="/">Alape</a>.</p>
 ]]></content:encoded>
