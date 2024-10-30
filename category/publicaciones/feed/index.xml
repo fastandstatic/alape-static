@@ -12,7 +12,7 @@
 	<atom:link href="/category/publicaciones/feed/" rel="self" type="application/rss+xml" />
 	<link>/category/publicaciones/</link>
 	<description></description>
-	<lastBuildDate>Thu, 26 Sep 2024 22:56:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Oct 2024 16:44:51 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,8 @@
 		
 		<dc:creator><![CDATA[alape]]></dc:creator>
 		<pubDate>Thu, 26 Sep 2024 22:48:14 +0000</pubDate>
-				<category><![CDATA[Publicaciones]]></category>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Publicaciones]]></category>
 		<guid isPermaLink="false">/?p=4140</guid>
 
 					<description><![CDATA[<p>1 de cada 5 muertes pediátricas están relacionadas con la Sepsis, y la concientización Sobre la importancia del reconocimiento temprano han obligado a que todos trabajemos para entender y divulgar sobre el tema. Es fundamental reconocer los signos y síntomas tempranos para iniciar el manejo adecuado y disminuir la mortalidad por esta causa. Los invitamos [&#8230;]</p>

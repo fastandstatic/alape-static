@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/diez-tips-para-iniciar-la-alimentacion-complementaria-y-no-desfallecer-en-el-intento/</loc>
-		<lastmod>2024-08-26T15:15:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/eyJidWNrZXQiOiJjcmlhbnpheXNhbHVkYXBwIiwia2V5IjoiYmxvZy8xNDYvY292ZXJzLzQ0Y2Y2MGU1LTcyMzEtNDQyNi04MTlh.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/la-cosmeticorexia-una-nueva-obsesion-de-las-adolescentes/</loc>
-		<lastmod>2024-08-26T15:16:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/eyJidWNrZXQiOiJjcmlhbnpheXNhbHVkYXBwIiwia2V5IjoiYmxvZy8xNDIvY292ZXJzL2RlMzEyNWQwLWYxOWYtNDZlMy04NWRh.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/saludo-de-la-presidenta-de-la-asociacion-latinoamericana-de-pediatria/</loc>
 		<lastmod>2024-09-11T19:15:47+00:00</lastmod>
 		<image:image>
@@ -22,8 +8,59 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/reunion-de-trabajo-entre-alape-y-la-academia-americana-de-pediatria/</loc>
+		<lastmod>2024-10-30T16:44:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/PHOTO-2024-10-04-10-53-03.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/conferencia-de-salud-global/</loc>
+		<lastmod>2024-10-30T16:44:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/PHOTO-2024-09-27-13-49-53.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/PHOTO-2024-09-27-13-49-53.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/PHOTO-2024-09-27-13-49-53-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/PHOTO-2024-09-27-13-49-53-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sepsis-en-pediatria-situacion-en-latinoamerica-la-importancia-de-pensar-en-sepsis/</loc>
+		<lastmod>2024-10-30T16:44:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/1920X500_03-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/algoritmos-para-el-manejo-clinico-de-los-casos-de-dengue/</loc>
+		<lastmod>2024-10-30T16:44:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/close-up-mosquito-sucking-blood-from-human-arm.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-cosmeticorexia-una-nueva-obsesion-de-las-adolescentes/</loc>
+		<lastmod>2024-10-30T16:45:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/eyJidWNrZXQiOiJjcmlhbnpheXNhbHVkYXBwIiwia2V5IjoiYmxvZy8xNDIvY292ZXJzL2RlMzEyNWQwLWYxOWYtNDZlMy04NWRh.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/diez-tips-para-iniciar-la-alimentacion-complementaria-y-no-desfallecer-en-el-intento/</loc>
+		<lastmod>2024-10-30T16:45:21+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/eyJidWNrZXQiOiJjcmlhbnpheXNhbHVkYXBwIiwia2V5IjoiYmxvZy8xNDYvY292ZXJzLzQ0Y2Y2MGU1LTcyMzEtNDQyNi04MTlh.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/participacion-de-alape-en-reunion-de-la-ipa/</loc>
-		<lastmod>2024-09-17T13:42:00+00:00</lastmod>
+		<lastmod>2024-10-30T16:45:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-27-at-9.58.25-AM-_2_.jpg</image:loc>
 		</image:image>
@@ -36,26 +73,12 @@
 	</url>
 	<url>
 		<loc>/semana-mundial-de-la-lactancia-materna/</loc>
-		<lastmod>2024-09-17T13:42:21+00:00</lastmod>
+		<lastmod>2024-10-30T16:45:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/woman-breast-feeding-her-child.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/Noticia-01-600-x-400.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/algoritmos-para-el-manejo-clinico-de-los-casos-de-dengue/</loc>
-		<lastmod>2024-09-26T16:23:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/close-up-mosquito-sucking-blood-from-human-arm.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/sepsis-en-pediatria-situacion-en-latinoamerica-la-importancia-de-pensar-en-sepsis/</loc>
-		<lastmod>2024-09-26T22:56:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/1920X500_03-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
