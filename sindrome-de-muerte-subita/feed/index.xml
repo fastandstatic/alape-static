@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentarios en Alape	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comentarios en: Síndrome de muerte súbita	</title>
+	<atom:link href="/sindrome-de-muerte-subita/feed/" rel="self" type="application/rss+xml" />
+	<link>/sindrome-de-muerte-subita/</link>
 	<description></description>
-	<lastBuildDate>Thu, 31 Oct 2024 22:08:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Oct 2024 21:31:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

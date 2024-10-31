@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/saludo-de-la-presidenta-de-la-asociacion-latinoamericana-de-pediatria/</loc>
-		<lastmod>2024-09-11T19:15:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/08/marcela-fama.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/sepsis-en-pediatria-situacion-en-latinoamerica-la-importancia-de-pensar-en-sepsis/</loc>
 		<lastmod>2024-10-30T16:44:51+00:00</lastmod>
 		<image:image>
@@ -79,6 +72,30 @@
 		<lastmod>2024-10-31T20:17:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/PHOTO-2024-10-04-10-53-03.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sindrome-de-muerte-subita/</loc>
+		<lastmod>2024-10-31T21:31:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Mensaje-del-Comite-SMSL-e1730411178464.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/reunion-de-alape-con-ops-en-washington-dc/</loc>
+		<lastmod>2024-10-31T21:33:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Reunion-OPS-2-e1730411213516.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Reunion-OPS-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/saludo-de-la-presidenta-de-la-asociacion-latinoamericana-de-pediatria/</loc>
+		<lastmod>2024-10-31T22:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/08/marcela-fama.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
