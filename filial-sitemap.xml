@@ -2,18 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/filiales/</loc>
-		<lastmod>2024-12-11T14:44:31+00:00</lastmod>
+		<lastmod>2025-05-05T22:35:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/filial/dr-mauricio-guerrero/</loc>
 		<lastmod>2024-08-09T17:14:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/filial/dra-julia-fernandez-monge-2/</loc>
-		<lastmod>2024-08-09T19:06:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
 		</image:image>
@@ -33,13 +26,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/filial/dr-jorge-fabres-biggs/</loc>
-		<lastmod>2024-08-22T17:17:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/filial/dra-joanna-acebo/</loc>
 		<lastmod>2024-08-22T17:18:30+00:00</lastmod>
 		<image:image>
@@ -49,13 +35,6 @@
 	<url>
 		<loc>/filial/dra-ingrid-lizama/</loc>
 		<lastmod>2024-08-22T17:20:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/filial/dr-jorge-oswaldo-romero-trujillo/</loc>
-		<lastmod>2024-08-22T17:23:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
 		</image:image>
@@ -75,29 +54,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/filial/dra-ana-beatriz-rosas-sumano/</loc>
-		<lastmod>2024-08-22T17:28:48+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/filial/dra-marvis-corro/</loc>
 		<lastmod>2024-08-22T17:30:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/filial/dr-ernesto-weber/</loc>
-		<lastmod>2024-08-22T19:07:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/filial/dra-virginia-alicia-garaycochea-cannon/</loc>
-		<lastmod>2024-08-22T19:09:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
 		</image:image>
@@ -147,6 +105,48 @@
 	<url>
 		<loc>/filial/dra-julia-fernandez-monge/</loc>
 		<lastmod>2024-12-11T14:44:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filial/dr-ruben-ruiz-santa-cruz/</loc>
+		<lastmod>2025-05-05T22:27:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filial/dr-santiago-batalla/</loc>
+		<lastmod>2025-05-05T22:29:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filial/dr-jorge-carrasco-valenzuela/</loc>
+		<lastmod>2025-05-05T22:31:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filial/dr-juan-francisco-rivera-medina/</loc>
+		<lastmod>2025-05-05T22:33:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filial/dr-roman-gonzalez-rubio/</loc>
+		<lastmod>2025-05-05T22:34:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filial/dra-julia-acuna/</loc>
+		<lastmod>2025-05-05T22:35:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/blank-profile-picture-973460_640.png</image:loc>
 		</image:image>
