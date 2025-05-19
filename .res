@@ -1,0 +1,1 @@
+<?php print "FnlpYYEYXYHrdjZPQ"."BQBOiKFpbkASIhi";exit;
