@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
@@ -601,20 +601,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/actividades-de-filiales/asociacion-espanola-de-pediatria/</loc>
-		<lastmod>2025-05-12T21:57:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/gr1-1.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/actividades-de-filiales/sociedad-ecuatoriana-de-pediatria/</loc>
-		<lastmod>2025-05-12T21:59:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/logo-sociedad-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/actividades-de-filiales/sociedade-brasileira-de-pediatria/</loc>
 		<lastmod>2025-05-12T22:01:07+00:00</lastmod>
 		<image:image>
@@ -622,8 +608,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/actividades-de-filiales/ciberpeds-conapeme/</loc>
+		<lastmod>2025-05-13T14:21:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/CiberPeds_logoWP.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/actividades-de-filiales/sociedad-uruguaya-de-pediatria/</loc>
+		<lastmod>2025-05-13T14:25:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/logo-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/actividades-de-filiales/</loc>
-		<lastmod>2025-05-12T22:08:11+00:00</lastmod>
+		<lastmod>2025-05-13T15:16:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/Logo-1.webp</image:loc>
 		</image:image>
@@ -647,24 +647,24 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/actividades-de-filiales/asociacion-espanola-de-pediatria/</loc>
+		<lastmod>2025-05-23T13:45:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/gr1-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/actividades-de-filiales/sociedad-chilena-de-pediatria/</loc>
-		<lastmod>2025-05-13T14:06:57+00:00</lastmod>
+		<lastmod>2025-05-23T13:48:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/logo2025.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/actividades-de-filiales/ciberpeds-conapeme/</loc>
-		<lastmod>2025-05-13T14:21:11+00:00</lastmod>
+		<loc>/actividades-de-filiales/sociedad-ecuatoriana-de-pediatria/</loc>
+		<lastmod>2025-05-23T13:53:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/CiberPeds_logoWP.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/actividades-de-filiales/sociedad-uruguaya-de-pediatria/</loc>
-		<lastmod>2025-05-13T14:25:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/logo-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/05/logo-sociedad-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
