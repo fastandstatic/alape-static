@@ -622,31 +622,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/actividades-de-filiales/</loc>
-		<lastmod>2025-05-13T15:16:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/Logo-1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/SBP.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/logo-sociedad.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/gr1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/logo2025.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/CiberPeds_logoWP.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/logo-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/actividades-de-filiales/asociacion-espanola-de-pediatria/</loc>
 		<lastmod>2025-05-23T13:45:35+00:00</lastmod>
 		<image:image>
@@ -665,6 +640,31 @@
 		<lastmod>2025-05-23T13:53:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/logo-sociedad-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/actividades-de-filiales/</loc>
+		<lastmod>2025-05-26T16:20:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/IMG_1213.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/SBP.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/logo-sociedad.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/gr1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/logo2025.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/CiberPeds_logoWP.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/logo-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
