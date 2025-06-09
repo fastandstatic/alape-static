@@ -608,13 +608,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/actividades-de-filiales/ciberpeds-conapeme/</loc>
-		<lastmod>2025-05-13T14:21:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/CiberPeds_logoWP.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/actividades-de-filiales/sociedad-uruguaya-de-pediatria/</loc>
 		<lastmod>2025-05-13T14:25:29+00:00</lastmod>
 		<image:image>
@@ -665,6 +658,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/logo-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/actividades-de-filiales/ciberpeds-conapeme/</loc>
+		<lastmod>2025-05-29T21:33:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/CiberPeds_logoWP.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

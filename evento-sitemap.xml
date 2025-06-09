@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/eventos/</loc>
-		<lastmod>2024-11-13T15:05:39+00:00</lastmod>
+		<lastmod>2025-05-29T22:15:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/evento/41-congresso-brasileiro-de-pediatria/</loc>
@@ -33,6 +33,41 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/63-CONGRESO-CHILENO-DE-PEDIATRIA.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/evento/3er-congreso-iberico-de-hematologia-y-oncologia-pediatricas/</loc>
+		<lastmod>2025-05-29T21:38:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/3er-Congreso-Iberico-de-Hematologia-1-scaled.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/evento/titulo-4o-congreso-alsepneo-salud-y-educacion-de-los-ninos-de-riesgo-compromiso-de-todos/</loc>
+		<lastmod>2025-05-29T21:50:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/4o-Congreso-ALSEPNEO-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/evento/6to-congreso-internacional-de-la-asociacion-de-pediatria-del-desarrollo/</loc>
+		<lastmod>2025-05-29T21:55:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/IDPA-Congress-2025-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/evento/43rd-annual-meeting-of-the-european-society-for-paediatric-infectious-diseases-espid-2025/</loc>
+		<lastmod>2025-05-29T22:06:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/ESPID-2025_Banner_1200x1200.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/evento/34o-congreso-colombiano-de-pediatria/</loc>
+		<lastmod>2025-05-29T22:15:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/34-Congreso-Colombiano-de-Pediatria.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
